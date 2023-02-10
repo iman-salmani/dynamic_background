@@ -22,7 +22,7 @@ Script using light and dark backgrounds directories to change background based o
 - Clone the repo and move to project directory
 
 ```sh
-git clone https://github.com/iman-salmani/dynamic_background.git
+git clone https://github.com/iman-salmani/dynamic_background.git && cd dynamic_background
 ```
 
 - Run install script
