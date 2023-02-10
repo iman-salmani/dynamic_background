@@ -1,6 +1,6 @@
 # Dynamic Background
 
-Script using light and dark directories to set background based on color scheme. will repeat this every 30 min by default.
+Script using light and dark backgrounds directories to change background based on color scheme. will repeat this every 30 min by default.
 
 **Light direcotry**: ~/Pictures/Backgrounds/Light/
 
