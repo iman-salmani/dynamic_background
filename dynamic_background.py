@@ -17,7 +17,7 @@ class Daemon:
         while True:
             # Set schema
             hour = localtime().tm_hour
-            if hour < 6 and hour > 18:
+            if hour < 6 or hour > 18:
                 os.system(
                     "gsettings set org.gnome.desktop.interface color-scheme prefer-dark"
                 )
