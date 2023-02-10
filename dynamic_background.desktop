@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Dynamic Background
+Exec=~/.local/bin/dynamic_background.py -i 1600
+Terminal=false
+Type=Application
